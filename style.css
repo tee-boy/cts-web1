@@ -8,14 +8,8 @@
 .nav_brand{
     margin-left: 30vh;
 }
-.nav{
-    background-color: white;
-    opacity: 0.6;
-    position: fixed;
-    z-index: -999vh;
-}
 #navbar{
-    position: sticky;
+overflow: hidden;
 }
 
 #nav-img{
