@@ -10,6 +10,7 @@
 }
 #navbar{
     position: fixed;
+    z-index: -999vh;
 }
 #nav-img{
     width: 50px;
